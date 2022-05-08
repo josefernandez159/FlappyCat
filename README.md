@@ -5,7 +5,7 @@
 
 
 
-[![Project Preview](https://uploaddeimagens.com.br/images/003/821/752/full/cheer_bee.png?1649659645)](https://cheer-bee.vercel.app/)
+[![Project Preview](image)](link/)
 
 ## Click on the image and go to the website
 
